@@ -1,0 +1,8 @@
+{
+  "enabledCssSnippets": [
+    "custom-progress-bar",
+    "bar"
+  ],
+  "cssTheme": "Minimal",
+  "accentColor": "#a588aa"
+}

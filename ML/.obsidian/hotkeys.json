@@ -1,0 +1,12 @@
+{
+  "global-search:open": [],
+  "command-palette:open": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}

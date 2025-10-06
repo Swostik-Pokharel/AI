@@ -10,12 +10,9 @@ number of basis vectors = number of dimensions
 ```
 
 Generally we denote basis vectors with: I hat (î) and J hat (ĵ)
-![[Gemini_Generated_Image_n3opbkn3opbkn3op.png|300]]
 
 ## Vector Addition:
 Adding two vectors is the geometric equivalent of starting from one vector and going to its tip then drawing the second vector from the tip of the first vector and moving to the tip of that. The vector then formed by connecting the starting point and the ending of those two is the resultant vector. Vector addition is pretty simple.
-![[Gemini_Generated_Image_wpvgnswpvgnswpvg.png|500]]
-
 ## Scalar multiplication
 If you multiply a vector with a scalar it is either stretched or squished in some direction. In essence you are simply just scaling the vector itself. This also brings in the idea of a span, the span refers to all the sets of points that can be reached through given pair of vectors.This means you need atleast 2 vectors to span an infinite sheet and atleast 3 vectors ro span an infinite cube of space . 
 #### Linearly dependent and independent vectors

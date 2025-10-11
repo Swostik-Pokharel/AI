@@ -1,6 +1,7 @@
+#vectors 
+#notes
 ### Matrices
 In linear algebra, a matrix can be understood as a group of vectors written side by side. Each column of a matrix is a vector. The number of rows tells you the dimension of the space those vectors live in. For example, an m × n matrix has n column vectors, each living in R^mth dimension .
-
 ### Matrix–vector multiplication / Linear transformation
 
 Multiplying a vector with a matrix is the geometric equivalent of taking the space around that vector and replacing the basis vectors of that space with the columns of the matrix. If this is done in a way where the grid lines of the space remain parallel and evenly spaced, the operation is called a linear transformation.
@@ -40,3 +41,5 @@ will stretch all vectors horizontally by 2 while leaving the vertical direction 
 **Key idea:**
 
 > If the start of the vector stays at the same spot, it’s linear. If the base moves, it’s affine.
+
+

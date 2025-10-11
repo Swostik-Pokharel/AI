@@ -1,4 +1,5 @@
-[[Vectors, Scalars, and Dot Product|back->]] 
+#vectors
+#notes
 # Vectors
 A vector can be understood as an arrow in space, which means by definition it has a direction. If a vector is an arrow in space the length of the arrow is the magnitude and the direction of the arrowhead is the direction. The direction can also be understood as the angle made by the vector with the origin (a vector might not touch origin but we can always extend to find the angle)
 

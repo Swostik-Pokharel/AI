@@ -1,4 +1,6 @@
+#vectors 
 ← [[Vectors, Scalars, and Dot Product|Back]]
+
 -Function of the project is to take in two words from the user and then spit out a similarity score .
 -required libraries : numpy and scikit-learn
 The step by step is :

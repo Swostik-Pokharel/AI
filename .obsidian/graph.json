@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:ML/Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 9130720
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.172281901041667,
+  "repelStrength": 11.7911783854167,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.3629355560153855,
-  "close": false
+  "linkDistance": 115,
+  "scale": 2.018667634922074,
+  "close": true
 }

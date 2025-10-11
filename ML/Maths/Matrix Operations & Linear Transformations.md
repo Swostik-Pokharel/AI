@@ -10,4 +10,4 @@
 - [x] Practice in Google Colab with NumPy
 - [x] MIT OpenCourseWare - Linear Algebra exercises
 
-## [[notes-LACH2]]
+## [[Matrices]]

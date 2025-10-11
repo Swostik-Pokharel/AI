@@ -10,5 +10,5 @@
 - [x] Khan Academy - Vectors and Spaces ✅ 2025-07-28
 - [x] Stat quest Cosine Similarity tutorial ✅ 2025-07-28
 
-## [[notes-LACH1]]
+## [[Vectors]]
 ## [[text similarity calculator]]

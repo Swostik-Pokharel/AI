@@ -67,8 +67,6 @@ dv.paragraph(`\`\`\`\n${progressBar} ${percentage}%\n\`\`\``);
 - [ ] Add bias vector and ReLU activation
 - [ ] Compare with `torch.nn.Linear`
 
-
-
 ---
 
 ## [[Inverses, Identity, and Solving Equations]]

@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "11abea9e22c9dd9d",
+        "id": "cac86a531db83ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "848c621afe0c2312",
+            "id": "2ac453c838533574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP in python.md",
+                "file": "Basic Python stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP in python"
+              "title": "Basic Python stuff"
             }
           },
           {
-            "id": "5c0896a0df71e4c7",
+            "id": "ecaee3a97c6b9a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List and Dictionary Comprehension.md",
+                "file": "Control Flow (Loops and Conditionals ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List and Dictionary Comprehension"
+              "title": "Control Flow (Loops and Conditionals )"
+            }
+          },
+          {
+            "id": "86eefbb32fdfe1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programming roadmap"
             }
           }
         ]
@@ -185,39 +199,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "848c621afe0c2312",
+  "active": "2ac453c838533574",
   "lastOpenFiles": [
-    "timeline.md",
-    "pyprojects/books/books.db",
-    "pyprojects/books/tabulate.py",
+    "Control Flow (Loops and Conditionals ).md",
+    "Programming roadmap.md",
+    "conditionals.png",
+    "Basic Python stuff.md",
+    "().md",
+    "SQL basics.md",
+    "Leetcode roadmap.md",
+    "pyprojects/Spaced_rep/README.md",
+    "example.md",
+    "What Now ?.md",
+    "pyprojects/Spaced_rep/uv.lock",
+    "pyprojects/Spaced_rep/models.py",
+    "pyprojects/Spaced_rep/pyproject.toml",
+    "pyprojects/Spaced_rep/main.py",
+    "pyprojects/Spaced_rep/REAADME.md",
+    "pyprojects/Spaced_rep",
+    "Systems design.md",
+    "pyprojects/F1/README.md",
+    "Network roadmap.md",
     "List and Dictionary Comprehension.md",
-    "OOP in python.md",
-    "ML/Maths/maths.md",
-    "programming/Python recap.md",
-    "pyprojects/books/__pycache__/tabulate.cpython-311.pyc",
-    "Neural networks.md",
-    "FPL.md",
-    "pyprojects/books/uv.lock",
-    "pyprojects/books/loadscreen.py",
-    "pyprojects/books/library.py",
-    "pyprojects/books/app.py",
-    "pyprojects/books/__pycache__/repository.cpython-311.pyc",
-    "pyprojects/books/__pycache__/models.cpython-311.pyc",
-    "pyprojects/books/__pycache__/library.cpython-311.pyc",
-    "Random notes.md",
-    "ML/Maths/linear algebra.md",
-    "programming/Books.md",
-    "ML/Maths/Vectors.md",
-    "ML/Maths/Vectors, Scalars, and Dot Product.md",
-    "pyprojects/books/README.md",
-    "NN/README.md",
-    "ML/Maths/Matrix Operations & Linear Transformations.md",
-    "ML/Maths/Matrices.md",
+    "pyprojects/logreader/examples/app_logs_7.log",
+    "pyprojects/logreader/examples/app_logs_4.log",
+    "pyprojects/logreader/examples/app_logs_9.log",
+    "pyprojects/logreader/examples/app_logs_3.log",
+    "pyprojects/logreader/examples/app_logs_8.txt",
     "pyprojects/logreader/README.md",
-    "Coding/Python Recap Project.md",
-    "ML/Maths/Maximum Likelihood Estimation & Inference.md",
-    "ML/Maths/projects/text similarity calculator.md",
-    "ML/Maths/Advanced Topics & Real AI Systems.md",
-    "Gemini_Generated_Image_wpvgnswpvgnswpvg.png.md"
+    "pyprojects/books/README.md",
+    "roadmap Leet-code DSA.md",
+    "ML/Maths/linear algebra.md",
+    "Two pointer technique.md",
+    "NN/README.md",
+    "Hash maps.md",
+    "programming/Python recap.md",
+    "Two sum.md",
+    "Lazygit.md",
+    "ML/Maths/Calculus.md"
   ]
 }
